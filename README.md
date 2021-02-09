@@ -17,7 +17,7 @@ The dataset has been labelled with a set of definitions to ensure consistency wi
 
 This may help clinicians save lives. Earlier detection of malpositioned catheters and lines is even more important as COVID-19 cases continue to surge. Many hospitals are at capacity and more patients are in need of these tubes and lines. Quick feedback on catheter and line placement could help clinicians better treat these patients. Beyond COVID-19, detection of line and tube position will ALWAYS be a requirement in many ill hospital patients.
 
-## acknowledgement
+## Acknowledgement
 
 - Koopmann MC, Kudsk KA, Szotkowski MJ, Rees SM. A Team-Based Protocol and Electromagnetic Technology Eliminate Feeding Tube Placement Complications [Internet]. Vol. 253, Annals of Surgery. 2011. p. 297–302. Available from: http://dx.doi.org/10.1097/sla.0b013e318208f550
 - Sorokin R, Gottlieb JE. Enhancing patient safety during feeding-tube insertion: a review of more than 2,000 insertions. JPEN J Parenter Enteral Nutr. 2006 Sep;30(5):440–5.
